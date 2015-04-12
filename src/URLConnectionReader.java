@@ -23,5 +23,7 @@ public class URLConnectionReader {
     public static void main(String[] args) throws Exception {
         String content = URLConnectionReader.getText(args[0]);
         System.out.println(content);
+        
+        //new stuff added on line 27 for testing
     }
 }
