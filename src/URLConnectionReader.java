@@ -26,7 +26,5 @@ public class URLConnectionReader {
         
         //new stuff added on line 27 for testing
         //added new stuff
-        //keine ahnung
-                
     }
 }
