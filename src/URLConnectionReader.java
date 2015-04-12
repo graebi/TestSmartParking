@@ -19,7 +19,7 @@ public class URLConnectionReader {
 
         return response.toString();
     }
-
+        //Test
     public static void main(String[] args) throws Exception {
         String content = URLConnectionReader.getText(args[0]);
         System.out.println(content);
